@@ -16,7 +16,8 @@ public class Main {
 //        frame.setIconImage(image.getImage());//change icon of frame
 //        frame.getContentPane().setBackground(new Color(45, 50, 240));
 
-        MyFrame myFrame = new MyFrame();
+//        MyFrame myFrame = new MyFrame();
+        Buttons buttonsFrame = new Buttons();
         //myFrame(); //Also works
     }
 }
