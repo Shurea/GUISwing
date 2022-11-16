@@ -17,7 +17,8 @@ public class Main {
 //        frame.getContentPane().setBackground(new Color(45, 50, 240));
 
 //        MyFrame myFrame = new MyFrame();
-        Buttons buttonsFrame = new Buttons();
+//        Buttons buttonsFrame = new Buttons();
+        TextFieldsExample frame = new TextFieldsExample();
         //myFrame(); //Also works
     }
 }
