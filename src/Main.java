@@ -18,7 +18,8 @@ public class Main {
 
 //        MyFrame myFrame = new MyFrame();
 //        Buttons buttonsFrame = new Buttons();
-        TextFieldsExample frame = new TextFieldsExample();
+//        TextFieldsExample frame = new TextFieldsExample();
+        CheckBoxesExample frame =  new CheckBoxesExample();
         //myFrame(); //Also works
     }
 }
